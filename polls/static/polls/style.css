@@ -1,0 +1,18 @@
+ a {
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    
+    text-align: 500px 500px;
+}
+body {
+    background: white url("images/site.avif") no-repeat;
+    background-size: 1700px 900px;
+}
+
